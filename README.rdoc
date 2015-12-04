@@ -1,1 +1,1 @@
-This is a tutorial I followed from a YouTube video. The tutorial can be found at https://www.youtube.com/watch?v=wODY11lM7wk. It was titled "Ruby on Rails Tutorial | Building a Message Board" and it did just that. I completed this as practice using Ruby on Rails and several other gems. 
+This is a tutorial I followed from a YouTube video. The tutorial can be found at https://www.youtube.com/watch?v=wODY11lM7wk. Ryan Hemrick created the video "Ruby on Rails Tutorial | Building a Message Board". I completed this as a way to gain more experience using Ruby on Rails. 
